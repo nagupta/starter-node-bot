@@ -13,5 +13,5 @@ config:
 #    type: secret
 #    default: not secret though
 screenshots:
-  - screenshot: resources/annimate1.png
-  - screenshot: resources/annimate2.jpg
+  - screenshot: resources/annimate1.gif
+  - screenshot: resources/annimate2.gif
